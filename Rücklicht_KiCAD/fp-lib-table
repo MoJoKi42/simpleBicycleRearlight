@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MountingVias")(type "KiCad")(uri "${KIPRJMOD}/MountingVias.pretty")(options "")(descr ""))
+)
